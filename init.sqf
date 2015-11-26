@@ -1,0 +1,1 @@
+﻿// call (compile preProcessFileLineNumbers("WZ_Scripts\WZ_init.sqf"));

@@ -1,0 +1,6 @@
+#include "defines.hpp"
+
+
+
+__EXEC (MISSION_ROOT = __FILE__ select [0, count __FILE__ - 15])
+
